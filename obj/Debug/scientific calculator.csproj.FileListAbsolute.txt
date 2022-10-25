@@ -1,0 +1,24 @@
+C:\Users\georg\source\repos\scientific calculator\bin\Debug\scientific calculator.exe.config
+C:\Users\georg\source\repos\scientific calculator\bin\Debug\scientific calculator.exe
+C:\Users\georg\source\repos\scientific calculator\bin\Debug\scientific calculator.pdb
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific calculator.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific_calculator.Form1.resources
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific_calculator.Properties.Resources.resources
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific calculator.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific calculator.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific calculator.exe
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific calculator.pdb
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific_calculator.Form2.resources
+C:\Users\georg\source\repos\scientific calculator\obj\Debug\scientific_calculator.Form3.resources
+C:\Users\georg\OneDrive\Desktop\scientific calculator\bin\Debug\scientific calculator.exe.config
+C:\Users\georg\OneDrive\Desktop\scientific calculator\bin\Debug\scientific calculator.exe
+C:\Users\georg\OneDrive\Desktop\scientific calculator\bin\Debug\scientific calculator.pdb
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific calculator.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific_calculator.Form1.resources
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific_calculator.Form2.resources
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific_calculator.Form3.resources
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific_calculator.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific calculator.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific calculator.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific calculator.exe
+C:\Users\georg\OneDrive\Desktop\scientific calculator\obj\Debug\scientific calculator.pdb
